@@ -1,0 +1,121 @@
+data,task,context
+0.json,How can I expand the living room without affecting other spaces?,structured
+0.json,How can I expand the living room without affecting other spaces?,multimodal
+0.json,How can I expand the living room while maintaining the building boundary?,structured
+0.json,How can I expand the living room while maintaining the building boundary?,multimodal
+1.json,How can I expand the living room without affecting other spaces?,structured
+1.json,How can I expand the living room without affecting other spaces?,multimodal
+1.json,How can I expand the living room while maintaining the building boundary?,structured
+1.json,How can I expand the living room while maintaining the building boundary?,multimodal
+2.json,How can I expand the living room without affecting other spaces?,structured
+2.json,How can I expand the living room without affecting other spaces?,multimodal
+2.json,How can I expand the living room while maintaining the building boundary?,structured
+2.json,How can I expand the living room while maintaining the building boundary?,multimodal
+4.json,How can I expand the living room without affecting other spaces?,structured
+4.json,How can I expand the living room without affecting other spaces?,multimodal
+4.json,How can I expand the living room while maintaining the building boundary?,structured
+4.json,How can I expand the living room while maintaining the building boundary?,multimodal
+5.json,How can I expand the living room without affecting other spaces?,structured
+5.json,How can I expand the living room without affecting other spaces?,multimodal
+5.json,How can I expand the living room while maintaining the building boundary?,structured
+5.json,How can I expand the living room while maintaining the building boundary?,multimodal
+6.json,How can I expand the living room without affecting other spaces?,structured
+6.json,How can I expand the living room without affecting other spaces?,multimodal
+6.json,How can I expand the living room while maintaining the building boundary?,structured
+6.json,How can I expand the living room while maintaining the building boundary?,multimodal
+7.json,How can I expand the living room without affecting other spaces?,structured
+7.json,How can I expand the living room without affecting other spaces?,multimodal
+7.json,How can I expand the living room while maintaining the building boundary?,structured
+7.json,How can I expand the living room while maintaining the building boundary?,multimodal
+9.json,How can I expand the living room without affecting other spaces?,structured
+9.json,How can I expand the living room without affecting other spaces?,multimodal
+9.json,How can I expand the living room while maintaining the building boundary?,structured
+9.json,How can I expand the living room while maintaining the building boundary?,multimodal
+10.json,How can I expand the living room without affecting other spaces?,structured
+10.json,How can I expand the living room without affecting other spaces?,multimodal
+10.json,How can I expand the living room while maintaining the building boundary?,structured
+10.json,How can I expand the living room while maintaining the building boundary?,multimodal
+11.json,How can I expand the living room without affecting other spaces?,structured
+11.json,How can I expand the living room without affecting other spaces?,multimodal
+11.json,How can I expand the living room while maintaining the building boundary?,structured
+11.json,How can I expand the living room while maintaining the building boundary?,multimodal
+12.json,How can I expand the living room without affecting other spaces?,structured
+12.json,How can I expand the living room without affecting other spaces?,multimodal
+12.json,How can I expand the living room while maintaining the building boundary?,structured
+12.json,How can I expand the living room while maintaining the building boundary?,multimodal
+13.json,How can I expand the living room without affecting other spaces?,structured
+13.json,How can I expand the living room without affecting other spaces?,multimodal
+13.json,How can I expand the living room while maintaining the building boundary?,structured
+13.json,How can I expand the living room while maintaining the building boundary?,multimodal
+14.json,How can I expand the living room without affecting other spaces?,structured
+14.json,How can I expand the living room without affecting other spaces?,multimodal
+14.json,How can I expand the living room while maintaining the building boundary?,structured
+14.json,How can I expand the living room while maintaining the building boundary?,multimodal
+15.json,How can I expand the living room without affecting other spaces?,structured
+15.json,How can I expand the living room without affecting other spaces?,multimodal
+15.json,How can I expand the living room while maintaining the building boundary?,structured
+15.json,How can I expand the living room while maintaining the building boundary?,multimodal
+16.json,How can I expand the living room without affecting other spaces?,structured
+16.json,How can I expand the living room without affecting other spaces?,multimodal
+16.json,How can I expand the living room while maintaining the building boundary?,structured
+16.json,How can I expand the living room while maintaining the building boundary?,multimodal
+17.json,How can I expand the living room without affecting other spaces?,structured
+17.json,How can I expand the living room without affecting other spaces?,multimodal
+17.json,How can I expand the living room while maintaining the building boundary?,structured
+17.json,How can I expand the living room while maintaining the building boundary?,multimodal
+18.json,How can I expand the living room without affecting other spaces?,structured
+18.json,How can I expand the living room without affecting other spaces?,multimodal
+18.json,How can I expand the living room while maintaining the building boundary?,structured
+18.json,How can I expand the living room while maintaining the building boundary?,multimodal
+19.json,How can I expand the living room without affecting other spaces?,structured
+19.json,How can I expand the living room without affecting other spaces?,multimodal
+19.json,How can I expand the living room while maintaining the building boundary?,structured
+19.json,How can I expand the living room while maintaining the building boundary?,multimodal
+20.json,How can I expand the living room without affecting other spaces?,structured
+20.json,How can I expand the living room without affecting other spaces?,multimodal
+20.json,How can I expand the living room while maintaining the building boundary?,structured
+20.json,How can I expand the living room while maintaining the building boundary?,multimodal
+21.json,How can I expand the living room without affecting other spaces?,structured
+21.json,How can I expand the living room without affecting other spaces?,multimodal
+21.json,How can I expand the living room while maintaining the building boundary?,structured
+21.json,How can I expand the living room while maintaining the building boundary?,multimodal
+22.json,How can I expand the living room without affecting other spaces?,structured
+22.json,How can I expand the living room without affecting other spaces?,multimodal
+22.json,How can I expand the living room while maintaining the building boundary?,structured
+22.json,How can I expand the living room while maintaining the building boundary?,multimodal
+23.json,How can I expand the living room without affecting other spaces?,structured
+23.json,How can I expand the living room without affecting other spaces?,multimodal
+23.json,How can I expand the living room while maintaining the building boundary?,structured
+23.json,How can I expand the living room while maintaining the building boundary?,multimodal
+24.json,How can I expand the living room without affecting other spaces?,structured
+24.json,How can I expand the living room without affecting other spaces?,multimodal
+24.json,How can I expand the living room while maintaining the building boundary?,structured
+24.json,How can I expand the living room while maintaining the building boundary?,multimodal
+25.json,How can I expand the living room without affecting other spaces?,structured
+25.json,How can I expand the living room without affecting other spaces?,multimodal
+25.json,How can I expand the living room while maintaining the building boundary?,structured
+25.json,How can I expand the living room while maintaining the building boundary?,multimodal
+26.json,How can I expand the living room without affecting other spaces?,structured
+26.json,How can I expand the living room without affecting other spaces?,multimodal
+26.json,How can I expand the living room while maintaining the building boundary?,structured
+26.json,How can I expand the living room while maintaining the building boundary?,multimodal
+27.json,How can I expand the living room without affecting other spaces?,structured
+27.json,How can I expand the living room without affecting other spaces?,multimodal
+27.json,How can I expand the living room while maintaining the building boundary?,structured
+27.json,How can I expand the living room while maintaining the building boundary?,multimodal
+28.json,How can I expand the living room without affecting other spaces?,structured
+28.json,How can I expand the living room without affecting other spaces?,multimodal
+28.json,How can I expand the living room while maintaining the building boundary?,structured
+28.json,How can I expand the living room while maintaining the building boundary?,multimodal
+29.json,How can I expand the living room without affecting other spaces?,structured
+29.json,How can I expand the living room without affecting other spaces?,multimodal
+29.json,How can I expand the living room while maintaining the building boundary?,structured
+29.json,How can I expand the living room while maintaining the building boundary?,multimodal
+30.json,How can I expand the living room without affecting other spaces?,structured
+30.json,How can I expand the living room without affecting other spaces?,multimodal
+30.json,How can I expand the living room while maintaining the building boundary?,structured
+30.json,How can I expand the living room while maintaining the building boundary?,multimodal
+31.json,How can I expand the living room without affecting other spaces?,structured
+31.json,How can I expand the living room without affecting other spaces?,multimodal
+31.json,How can I expand the living room while maintaining the building boundary?,structured
+31.json,How can I expand the living room while maintaining the building boundary?,multimodal
